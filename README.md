@@ -22,6 +22,6 @@ Resume:
  - [Book Exchange Online Platform](https://github.com/bookswap361/bookSwap)
  
  CS 461 Specific Documents:
- - [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1_j3YvHD1j3w2MQ52pxiJdma0uA4GMcIF)
+ - [Google Drive Folder](https://drive.google.com/drive/folders/1_j3YvHD1j3w2MQ52pxiJdma0uA4GMcIF?usp=sharing)
   
  
