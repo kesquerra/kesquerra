@@ -1,15 +1,15 @@
-## Kyle Esquerra
+# Kyle Esquerra
 
-# About Me:
+## About Me:
  - Computer Science Undergraduate with an Option in CyberSecurity at Oregon State
  - Formerly a Geospatial Intelligence Analyst with the United States Marine Corps
 
-# Qualifications:
+## Qualifications:
  - C, C++, C#, Rust, Python, Javascript Proficiency
  - ArcGIS, QGIS, Erdas Imagine Proficiency
  - GDB, SQL, Geospatial Analysis Proficiency
 
-# Projects:
+## Projects:
 
 To view specific details of each project, please follow the links.
 
