@@ -1,26 +1,26 @@
 ## Kyle Esquerra
 
-About Me:
+# About Me:
  - Computer Science Undergraduate with an Option in CyberSecurity at Oregon State
  - Formerly a Geospatial Intelligence Analyst with the United States Marine Corps
 
-Qualifications:
+# Qualifications:
  - C, C++, C#, Rust, Python, Javascript Proficiency
  - ArcGIS, QGIS, Erdas Imagine Proficiency
  - GDB, SQL, Geospatial Analysis Proficiency
 
-Projects:
+# Projects:
 
 To view specific details of each project, please follow the links.
 
- Ongoing Projects:
+ Ongoing:
  - [Encrypted Pay-Per-View Content Delivery](https://github.com/kesquerra/zephyr_ci)
  - [Machine Learning Implementations](https://github.com/kesquerra/machine_learning)
  - [Artificial Intelligence Implementations](https://github.com/kesquerra/othello)
  - [Chess in Rust](https://github.com/kesquerra/rust-chess)
  
 
- Previous Projects:
+ Previous:
  - [Book Exchange Online Platform](https://github.com/bookswap361/bookSwap)
  - [Animal Crossing Database](https://github.com/kesquerra/animalcrossing_db)
  - [Operating System C Functions](https://github.com/kesquerra/c_implementations)
