@@ -9,6 +9,9 @@ Qualifications:
  - ArcGIS, QGIS, Erdas Imagine Proficiency
  - GDB, SQL, Geospatial Analysis Proficiency
 
+Projects:
+To view specific details of each project, please follow the links.
+
  Ongoing Projects:
  - [Encrypted Pay-Per-View Content Delivery](https://github.com/kesquerra/zephyr_ci)
  - [Machine Learning Implementations](https://github.com/kesquerra/machine_learning)
