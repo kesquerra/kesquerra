@@ -10,6 +10,7 @@ Qualifications:
  - GDB, SQL, Geospatial Analysis Proficiency
 
 Projects:
+
 To view specific details of each project, please follow the links.
 
  Ongoing Projects:
