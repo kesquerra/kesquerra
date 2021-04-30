@@ -22,6 +22,6 @@ Qualifications:
  - [Operating System C Functions](https://github.com/kesquerra/c_implementations)
  - [Functional Programming Language Implementations](https://github.com/kesquerra/functional_implementations)
  - [Assembly Language Functionality](https://github.com/kesquerra/assembly_projects)
- - [Basic Algorithm Implentations](https://github.com/kesquerra/basic_algorithms)
+ - [Basic Algorithm Implementations](https://github.com/kesquerra/basic_algorithms)
   
  
