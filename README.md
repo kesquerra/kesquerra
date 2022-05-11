@@ -15,14 +15,14 @@
 To view specific details of each project, please follow the links.
 
  Ongoing:
- - [Encrypted Pay-Per-View Content Delivery](https://github.com/kesquerra/zephyr_ci)
- - [Machine Learning Implementations](https://github.com/kesquerra/machine_learning)
- - [Artificial Intelligence Implementations](https://github.com/kesquerra/othello)
  - [Chess in Rust](https://github.com/kesquerra/rust-chess)
  
 
  Previous:
  - [Book Exchange Online Platform](https://github.com/bookswap361/bookSwap)
+ - [Encrypted Pay-Per-View Content Delivery](https://github.com/kesquerra/zephyr_ci)
+ - [Machine Learning Implementations](https://github.com/kesquerra/machine_learning)
+ - [Artificial Intelligence Implementations](https://github.com/kesquerra/othello)
  - [Animal Crossing Database](https://github.com/kesquerra/animalcrossing_db)
  - [Operating System C Functions](https://github.com/kesquerra/c_implementations)
  - [Functional Programming Language Implementations](https://github.com/kesquerra/functional_implementations)
